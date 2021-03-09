@@ -9,7 +9,7 @@
 - [How to Renew By Design Exception?](Readme.md#How-to-Renew-By-Design-Exception)
 - [How to Clear By Design Exception?](Readme.md#How-to-Clear-By-Design-Exception)
 - [How to export scan logs CSV?](Readme.md#How-to-export-scan-logs-CSV?)
-- [Feedback](Readme.md#feedback)
+- [Feedback](Readme.md#Feedback)
 
 -----------------------------------------------------------------
 ## Introduction of AzTS UI 
