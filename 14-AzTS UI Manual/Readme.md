@@ -24,6 +24,9 @@ The Azure Tenant Security (AzTS) UI tool is used to:
 
  https://msit.microsoftstream.com/video/ff03a1ff-0400-85a8-04aa-f1eb80965daa?list=studio
 
+
+https://github.com/azsk/DevOpsKit-docs/blob/users/v-adisha/AzTSUIContent/Videos/14_Introduction_of_AzTS_UI.mp4?raw=true
+
 [Back to top…](Readme.md#contents)
 
 
