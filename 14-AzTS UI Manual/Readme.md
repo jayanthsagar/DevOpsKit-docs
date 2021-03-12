@@ -20,11 +20,7 @@ The Azure Tenant Security (AzTS) UI tool is used to:
  * Export control scan result in CSV.
  
  To see basic introduction about AzTS UI, how it works and what are the functionality it is having, please refer the video below:
-
- https://msit.microsoftstream.com/video/ff03a1ff-0400-85a8-04aa-f1eb80965daa?list=studio
-
-
-https://github.com/azsk/DevOpsKit-docs/blob/users/v-adisha/AzTSUIContent/Videos/14_Introduction_of_AzTS_UI.mp4?raw=true
+ https://aztsuivideostorage.blob.core.windows.net/videos/14_Introduction_of_AzTS_UI.mp4
 
 [Back to top…](Readme.md#contents)
 
@@ -34,8 +30,6 @@ https://github.com/azsk/DevOpsKit-docs/blob/users/v-adisha/AzTSUIContent/Videos/
 ![Internals](../Videos/14_Remediate_Failed_Control.mp4)
 
 [Back to top…](Readme.md#contents)
-
-https://aztsuivideostorage.blob.core.windows.net/videos/14_Introduction_of_AzTS_UI.mp4
 
 ## How to scan your subscription manually?
 In general, your subscription(s) will get scanned automatically in every 24 hrs. But if you are interested to see latest updated control scan result, you can go for manual scan of your subscription(s).
