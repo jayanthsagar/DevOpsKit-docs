@@ -1,9 +1,5 @@
 # Azure Tenant Security UI Guidance
 
-::: video
-<iframe width="640" height="360" src="https://aztsuivideostorage.blob.core.windows.net/videos/14_Introduction_of_AzTS_UI.mp4" allowfullscreen style="border:none;"></iframe>
-:::
-
 ## AzTS UI
 ### Contents
 - [Introduction of AzTS UI](Readme.md#Introduction-of-AzTS-UI)
@@ -12,7 +8,7 @@
 - [How to add By Design Exception?](Readme.md#How-to-Add-By-Design-Exception)
 - [How to renew By Design Exception?](Readme.md#How-to-Renew-By-Design-Exception)
 - [How to clear By Design Exception?](Readme.md#How-to-Clear-By-Design-Exception)
-- [How to export scan logs CSV?](Readme.md#How-to-export-scan-logs-CSV?)
+- [How to export scan logs CSV?](Readme.md#How-to-export-scan-logs-CSV)
 - [Feedback](Readme.md#Feedback)
 
 -----------------------------------------------------------------
