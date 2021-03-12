@@ -1,13 +1,17 @@
 # Azure Tenant Security UI Guidance
 
+::: video
+<iframe width="640" height="360" src="https://aztsuivideostorage.blob.core.windows.net/videos/14_Introduction_of_AzTS_UI.mp4" allowfullscreen style="border:none;"></iframe>
+:::
+
 ## AzTS UI
 ### Contents
 - [Introduction of AzTS UI](Readme.md#Introduction-of-AzTS-UI)
 - [How to remediate a failed control?](Readme.md#how-to-remediate-a-failed-control)
 - [How to scan your subscription manually?](Readme.md#How-to-scan-your-subscription-manually)
-- [How to Add By Design Exception?](Readme.md#How-to-Add-By-Design-Exception)
-- [How to Renew By Design Exception?](Readme.md#How-to-Renew-By-Design-Exception)
-- [How to Clear By Design Exception?](Readme.md#How-to-Clear-By-Design-Exception)
+- [How to add By Design Exception?](Readme.md#How-to-Add-By-Design-Exception)
+- [How to renew By Design Exception?](Readme.md#How-to-Renew-By-Design-Exception)
+- [How to clear By Design Exception?](Readme.md#How-to-Clear-By-Design-Exception)
 - [How to export scan logs CSV?](Readme.md#How-to-export-scan-logs-CSV?)
 - [Feedback](Readme.md#Feedback)
 
@@ -16,8 +20,7 @@
 The Azure Tenant Security (AzTS) UI tool is used to:
  * See compliance summary against each subscription.
  * Scan your subscription(s) manually.
- * Add/Renew exception.
- * Clear exception.
+ * Add/renew/clear By Design exception.
  * Export control scan result in CSV.
  
  To see basic introduction about AzTS UI, how it works and what are the functionality it is having, please refer the video below:
@@ -47,7 +50,7 @@ In general, your subscription(s) will get scanned automatically in every 24 hrs.
 
 ## How to Add By Design Exception?
 ### What is By Design Exception?
-Applicable for scenerios where there is no security risk dur to current control failure. For example, the team mitigated the risk through code implementation or the security control is expected to fail due to by design of application. 
+Applicable for scenerios where there is no security risk due to current control failure. For example, the team mitigated the risk through code implementation or the security control is expected to fail due to by design of application. 
 
 Only following controls are allowed for By Design exception:
 
