@@ -35,6 +35,8 @@ https://github.com/azsk/DevOpsKit-docs/blob/users/v-adisha/AzTSUIContent/Videos/
 
 [Back to top…](Readme.md#contents)
 
+https://aztsuivideostorage.blob.core.windows.net/videos/14_Introduction_of_AzTS_UI.mp4
+
 ## How to scan your subscription manually?
 In general, your subscription(s) will get scanned automatically in every 24 hrs. But if you are interested to see latest updated control scan result, you can go for manual scan of your subscription(s).
 
