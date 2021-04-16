@@ -13,6 +13,9 @@
 ## Overview 
 The Azure Tenant Security Solution (AzTS) from the AzSK team can be used to obtain visibility to cloud subscriptions and resource configuration across multiple subscriptions in an enterprise environment. The AzTS is a logical progression of DevOps Kit which helps us move closer to an implementation of cloud security compliance solution using native security capabilities in Azure platform that are available today. Functionally, it is similar to running AzSK Continuous Assurance (CA) in central-scan mode.
 
+## Video
+[![UI](../Images/13_TSS_PBIDashboardInventoryOverview.png)](https://aztsvideoforgithub.blob.core.windows.net/testvideocontainer/Ext_Introduction_AzTS-UI.mp4)
+
 ## Why Azure Tenant Security Solution?
 The AzTS Solution was created with the following explicit objectives (some of which were harder to accomplish using the existing Automation-based Continuous Assurance approach):
  * Ability to scan large number of subscriptions in a central scan model in a cost-effective and time-efficient manner
